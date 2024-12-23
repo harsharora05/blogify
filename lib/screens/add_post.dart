@@ -1,5 +1,5 @@
 import 'package:blogify/widgets/dropDown.dart';
-import 'package:blogify/widgets/imagePick.dart';
+import 'package:blogify/widgets/ImagePick.dart';
 import 'package:flutter/material.dart';
 import 'package:super_bullet_list/bullet_list.dart';
 
